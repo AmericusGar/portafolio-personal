@@ -32,6 +32,16 @@ section {
     padding: 20px;
 }
 
+ul li a {
+    text-decoration: none;
+    text-decoration-color: black;
+  }
+  ul li a:hover {
+    text-decoration: underline; 
+    color: #da84bc;
+}
+  
+
 h2 {
     border-bottom: 2px solid #af4c9b;
     padding-bottom: 10px;
